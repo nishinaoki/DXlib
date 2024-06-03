@@ -1,0 +1,5 @@
+﻿Project1\x64\Debug\GameData.obj : warning LNK4042: オブジェクトの指定が重複しています。余分なものは無視されます。
+GameMain.obj : error LNK2019: 未解決の外部シンボル "void __cdecl StartScreen(double,int)" (?StartScreen@@YAXNH@Z) が関数 WinMain で参照されました
+    定義済みの一致する可能性があるシンボルに関するヒント:
+      "void __cdecl StartScreen(double)" (?StartScreen@@YAXN@Z)
+D:\DxLib2DGame\project\20240527_Gameproject\x64\Debug\Project1.exe : fatal error LNK1120: 1 件の未解決の外部参照
